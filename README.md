@@ -6,7 +6,7 @@ This project was developed as part of a Web Development lab assignment to demons
 
 🚀 Features
 
-• Add new events dynamically
+• Add new events dynamically\n
 • Delete individual events
 • Highlight events
 • Clear all events with transition effect
