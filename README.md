@@ -2,11 +2,11 @@
 
 A dynamic event management dashboard built using HTML, CSS, and Vanilla JavaScript (DOM Manipulation).
 
-This project was developed as part of a Web Development lab assignment to demonstrate practical understanding of DOM traversal, dynamic element creation, event handling, and UI interaction without using any external libraries or frameworks.
+This project was developed as part of a Web Development lab assignment to demonstrate practical understanding of DOM traversal, dynamic element creation, event handling, and UI interaction without using any external libraries or frameworks. 	
 
 🚀 Features
 
-• Add new events dynamically/n
+• Add new events dynamically
 • Delete individual events
 • Highlight events
 • Clear all events with transition effect
